@@ -1,6 +1,6 @@
-name: princemd
+name: Zim-MD 
 services:
-  - name: prince-md-service
+  - name: Zim-MD-service
     type: web
     ports:
       - 3000
