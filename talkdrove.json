@@ -1,7 +1,7 @@
 {
-    "bot-name": "PRINCEAI",
+    "bot-name": "Zim-MD",
     "description": "whatsapp user bot",
-    "logo": "https://qu.ax/lwgPL.jpg",
+    "logo": "",
     "keywords": ["bot"],
     "documentation-link": "https://shortsession.onrender.com",
     "owner-verification":"shoroking38@gmail.com",
@@ -15,12 +15,12 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": "Zim-MD"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "6281220527432,Prince♥️The Developer"
+      "value": "263771341158,shellah♥️The Developer"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
