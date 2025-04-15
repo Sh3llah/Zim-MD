@@ -1,8 +1,8 @@
 {
-"name": "PRINCEAI",
+"name": "Zim-MD",
 "version": "2.9.7", 
 "homepage": ".",
-"description": "A Muslim WhatsApp User Bot",
+"description": "A WhatsApp User Bot",
 "main": "index.js",
 "type": "module",
     
@@ -28,10 +28,10 @@
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/DASTAGHIR/PRINCEAI.git" },
+"url": "git+https://github.com/Sh3llah/Zim-MD.git" },
 
 "bugs": {
-"url": "https://github.com/DASTAGHIR/PRINCEAI/issues" },
+"url": "https://github.com/Sh3llah/Zim-MD/issues" },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@brandond/findthelyrics": "^2.0.5",
