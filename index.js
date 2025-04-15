@@ -122,7 +122,7 @@ async function start(file) {
 ┊${chalk.blueBright('┊')}${chalk.cyan(`💚 Name: ${packageJsonObj.name}`)}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`💫 Version: ${packageJsonObj.version}`)}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`💜 Description: ${packageJsonObj.description}`)}
-┊${chalk.blueBright('┊')}${chalk.cyan(`💎 Project Author: ${packageJsonObj.author.name} (Prince❣️)`)}
+┊${chalk.blueBright('┊')}${chalk.cyan(`💎 Project Author: ${packageJsonObj.author.name} (shellah❣️)`)}
 ┊${chalk.blueBright('┊')}${chalk.blueBright('┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')} 
 ┊${chalk.blueBright('╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`⏰ Current Time :`)}
