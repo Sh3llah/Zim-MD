@@ -1,9 +1,9 @@
 {
-  "name": "PRINCEAI",
+  "name": "Zim-MD",
   "description": "whatsapp user bot",
-  "repository": "https://github.com/DASTAGHIR/PRINCEAI",
-  "logo": "https://files.catbox.moe/76879w.png",
-  "success_url": "https://github.com/DASTAGHIR/PRINCEAI",
+  "repository": "https://github.com/Sh3llah/Zim-MD",
+  "logo": "https://files.catbox.moe/79w.png",
+  "success_url": "https://github.com/Sh3llah/Zim-MD",
   "keywords": [
     "nodejs", "heroku", "bot", "urdu", "english", "indonesian", "arab", "portuguese", "italian", "french", "whatsapp",
     "termux", "superbot", "multi-device", "md", "official", "javascript", "princebot"
@@ -19,12 +19,12 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": "Zim-MD"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "639129985130,DEVELOPER"
+      "value": "263771341158,DEVELOPER"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
